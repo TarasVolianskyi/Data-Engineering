@@ -54,6 +54,5 @@ def convert_to_avro():
 
     return jsonify({'message': 'Дані успішно конвертовані у Avro'}), 200
 
-
 if __name__ == '__main__':
     app.run(port=8082)

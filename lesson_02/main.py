@@ -23,8 +23,9 @@ def fetch_sales_data(date_str, page):
 def save_to_raw_dir(data, raw_dir, date_str, page=None):
     # Очищення директорії перед записом
     if os.path.exists(raw_dir):
-        for file in os.listdir(raw_dir):
+        for file in os.listdir(raw_dir) :
             os.remove(os.path.join(raw_dir, file))
+
 
     # Формування імені файлу
     if page is None:

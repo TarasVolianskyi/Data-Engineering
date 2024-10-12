@@ -27,6 +27,7 @@ def save_to_raw_dir(data, raw_dir, date_str, page=None):
             os.remove(os.path.join(raw_dir, file))
 
 
+
     # Формування імені файлу
     if page is None:
         file_name = f'sales_{date_str}.json'

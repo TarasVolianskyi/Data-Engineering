@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d654d32d-e969-4697-abd0-b5835b505484" name="Changes" comment="add tasks to lesson_02">
+      <change afterPath="$PROJECT_DIR$/DataTool/sectors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTool/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataTool/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTool/static/CLAIM_AMOUNT_plot.html" beforeDir="false" afterPath="$PROJECT_DIR$/DataTool/static/CLAIM_AMOUNT_plot.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTool/static/CLAIM_ID_plot.html" beforeDir="false" afterPath="$PROJECT_DIR$/DataTool/static/CLAIM_ID_plot.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTool/static/CUSTOMER_ID_plot.html" beforeDir="false" afterPath="$PROJECT_DIR$/DataTool/static/CUSTOMER_ID_plot.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTool/static/DOC_NUM_plot.html" beforeDir="false" afterPath="$PROJECT_DIR$/DataTool/static/DOC_NUM_plot.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTool/static/MATNR_plot.html" beforeDir="false" afterPath="$PROJECT_DIR$/DataTool/static/MATNR_plot.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTool/static/QUANTITY_plot.html" beforeDir="false" afterPath="$PROJECT_DIR$/DataTool/static/QUANTITY_plot.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTool/templates/111.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTool/templates/upload.html" beforeDir="false" afterPath="$PROJECT_DIR$/DataTool/templates/upload.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;TarasVolianskyi&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/TarasVolianskyi/Data-Engineering.git&quot;,
+    &quot;accountId&quot;: &quot;5b5820dd-19bc-487b-a656-59fbdea9d7f4&quot;
+  },
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
+    },
+    &quot;owner&quot;: &quot;TarasVolianskyi&quot;,
+    &quot;repository&quot;: &quot;Data-Engineering&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2mZkuOTV5zcGxCGWgPXWfbPq2SK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Docker.lesson_03.pagila: Compose Deployment.executor": "Run",
+    "Docker.lesson_03.pgadmin: Compose Deployment.executor": "Run",
+    "Docker.lesson_03: Compose Deployment.executor": "Run",
+    "Python.convert_to_avro.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "lesson__04",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "sqlite",
+      "dynamo",
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lesson_03" />
+      <recent name="$PROJECT_DIR$/lesson_002" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="convert_to_avro" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Data-Engineering" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_02/convert_to_avro.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Data-Engineering" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_02/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="lesson_03: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="lesson_03/docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="lesson_03.pagila: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="pagila" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="lesson_03/docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="lesson_03.pgadmin: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="pgadmin" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="lesson_03/docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.convert_to_avro" />
+        <item itemvalue="Docker.lesson_03: Compose Deployment" />
+        <item itemvalue="Docker.lesson_03.pgadmin: Compose Deployment" />
+        <item itemvalue="Docker.lesson_03.pagila: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.22855.92" />
+        <option value="bundled-python-sdk-b068d85d1acf-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.22855.92" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d654d32d-e969-4697-abd0-b5835b505484" name="Changes" comment="" />
+      <created>1727291707770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727291707770</updated>
+      <workItem from="1727291708944" duration="8242000" />
+      <workItem from="1728311470030" duration="11574000" />
+      <workItem from="1728335516263" duration="4062000" />
+      <workItem from="1728593334536" duration="2940000" />
+      <workItem from="1728748916122" duration="12824000" />
+      <workItem from="1728822394982" duration="10957000" />
+      <workItem from="1729512017351" duration="6679000" />
+      <workItem from="1729518825265" duration="7524000" />
+    </task>
+    <task id="LOCAL-00001" summary="add dir lesson_02">
+      <option name="closed" value="true" />
+      <created>1727292481099</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727292481099</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add dir lesson_02">
+      <option name="closed" value="true" />
+      <created>1728310744256</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728310744256</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add task 2 to lesson_02">
+      <option name="closed" value="true" />
+      <created>1728326434356</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728326434356</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add task 3 to lesson_02">
+      <option name="closed" value="true" />
+      <created>1728334311924</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728334311924</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add task 3 to lesson_02">
+      <option name="closed" value="true" />
+      <created>1728334375943</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728334375943</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add dir to lesson_03">
+      <option name="closed" value="true" />
+      <created>1728591165229</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1728591165229</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add tasks to lesson_02">
+      <option name="closed" value="true" />
+      <created>1728751594349</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1728751594349</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add tasks to lesson_02">
+      <option name="closed" value="true" />
+      <created>1728751678448</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1728751678448</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/work_branch" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add dir lesson_02" />
+    <MESSAGE value="add requirements to lesson_02" />
+    <MESSAGE value="add task 2 to lesson_02" />
+    <MESSAGE value="add task 3 to lesson_02" />
+    <MESSAGE value="add dir to lesson_03" />
+    <MESSAGE value="add tasks to lesson_02" />
+    <option name="LAST_COMMIT_MESSAGE" value="add tasks to lesson_02" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Data_Engineering$convert_to_avro.coverage" NAME="convert_to_avro Coverage Results" MODIFIED="1728749182567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_02" />
+    <SUITE FILE_PATH="coverage/Data_Engineering$main.coverage" NAME="main Coverage Results" MODIFIED="1728757965490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_02" />
+  </component>
+</project>

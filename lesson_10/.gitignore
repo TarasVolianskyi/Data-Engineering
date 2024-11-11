@@ -1,0 +1,14 @@
+# Python files
+*.pyc
+__pycache__/
+
+# Airflow and virtual environment files
+logs/
+*.env
+*.local
+.env
+*.log
+.venv/
+.terraform/
+__pycache__/
+dags/*_generated.py
